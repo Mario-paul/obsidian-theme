@@ -22,7 +22,7 @@
 .menu-favorites-box {
   padding: 10px;
   transition-duration: 300;
-  background-color: rgba(64, 64, 64, 0.75); /* menu box bg color & alpha */
+  background-color: rgba(64, 64, 64, 0.75); /* menu favorites box bg color & alpha */
   border: 1px solid #202020; }
 /* menu search box */
 #menu-search-entry:focus, .popup-menu #notification StEntry:focus, #menu-search-entry:hover, .popup-menu #notification StEntry:hover {
@@ -141,7 +141,7 @@
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05); }
     .run-dialog-entry:focus {
       color: #f0f0f0;
-      background-color: #404040;
+      background-color: rgba(64, 64, 64, 0.59); /* run dialog entry box */
       border: 1px solid #92b372;
       box-shadow: inset 0 2px 4px rgba(64, 64, 64, 0.05); }
   .run-dialog .modal-dialog-button-box {
