@@ -223,7 +223,7 @@ StScrollBar {
   color: #f0f0f0;
   border: 1px solid #202020;
   border-radius: 3px;
-  background-color: rgba(46, 46, 46, 0.59); }
+  background-color: rgba(0, 0, 0, 0.59); }
   .menu.top {
     border-radius: 0 0 3px 3px; }
   .menu.bottom {
@@ -448,7 +448,7 @@ StScrollBar {
 .panel-top, .panel-bottom, .panel-left, .panel-right {
   color: #ffffff;
   border: none;
-  background-color: rgba(46, 46, 46, 0.59);
+  background-color: rgba(0, 0, 0, 0.59);
   font-size: 1em;
   padding: 0px; }
 
@@ -740,7 +740,7 @@ StScrollBar {
 .switcher-list {
   color: #f0f0f0;
   border: 1px solid #202020;
-  background-color: rgba(47, 47, 47, .75);
+  background-color: rgba(0, 0, 0, .75);
   border-radius: 3px;
   padding: 20px; }
   .switcher-list > StBoxLayout {
@@ -823,7 +823,7 @@ StScrollBar {
   padding: 10px 15px 10px 15px;
   border: 1px solid #202020;
   border-radius: 3px;
-  background-color: rgba(47, 47, 47, 0.59); }
+  background-color: rgba(0, 0, 0, 0.59); }
   .run-dialog > * {
     padding: 0; }
   .run-dialog-label {
@@ -1080,7 +1080,7 @@ StScrollBar {
   spacing: 1em;
   padding: 20px;
   color: #f0f0f0;
-  background-color: rgba(47, 47, 47, .75);
+  background-color: rgba(0, 0, 0, .75);
   border: 1px solid #202020;
   border-radius: 5px; }
   .osd-window .osd-monitor-label {
@@ -1223,7 +1223,7 @@ StScrollBar {
 .grouped-window-list-thumbnail-menu {
   color: #f0f0f0;
   border: 1px solid #202020;
-  background-color: rgba(47, 47, 47, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   border-radius: 3px;
   padding: 0px; }
   .grouped-window-list-thumbnail-menu > StBoxLayout {
