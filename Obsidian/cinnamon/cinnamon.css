@@ -740,7 +740,7 @@ StScrollBar {
 .switcher-list {
   color: #f0f0f0;
   border: 1px solid #202020;
-  background-color: rgba(0, 0, 0, .75);
+  background-color: rgba(0, 0, 0, .65);
   border-radius: 3px;
   padding: 20px; }
   .switcher-list > StBoxLayout {
@@ -1080,7 +1080,7 @@ StScrollBar {
   spacing: 1em;
   padding: 20px;
   color: #f0f0f0;
-  background-color: rgba(0, 0, 0, .75);
+  background-color: rgba(0, 0, 0, .65);
   border: 1px solid #202020;
   border-radius: 5px; }
   .osd-window .osd-monitor-label {

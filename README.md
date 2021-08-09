@@ -2,9 +2,9 @@
 Fork of the elegant Mint-Y-Dark theme for Cinnamon Desktop Environment using transparency and dark UI elements.
 
 <!-- ## Screenshot -->
-![screenshot](https://github.com/Mario-paul/obsidian-theme/blob/main/screenshot.png?raw=true)
+<!-- ![screenshot](https://github.com/Mario-paul/obsidian-theme/blob/main/screenshot.png?raw=true) -->
 <!-- ![screenshot](https://i.imgur.com/Uv2IsSr.png) -->
-<!-- ![screenshot](https://i.imgur.com/NsG7szl.gif) -->
+![screenshot](https://i.imgur.com/SNT3BtN.gif)
 
 ## Installation
 ### Automatic
