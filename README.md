@@ -20,7 +20,7 @@ Fork of the elegant Mint-Y-Dark theme for Cinnamon Desktop Environment using tra
 This theme was created and tested with Cinnamon version `5.0.5`. Cinnamon versions `4.x.x`+ likely work fine but have not been tested, and versions older than that might or might not work.
 
 ## My setup
-Wallpaper: [Firewatch](https://imgur.com/nJUueyI)<br>
+Wallpaper: [Firewatch](https://wall.alphacoders.com/big.php?i=712437)<br>
 Window Borders: Mint-Y-Dark<br>
 Icons: [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)<br>
 Controls: Mint-Y-Dark<br>
