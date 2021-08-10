@@ -1,5 +1,24 @@
  /* Customize Readme -- How to customize this theme */
 
+ /* Linux Mint Accent Colors
+ To change the Desktop accent color, open cinnamon.css file,
+ find-and-replace "92b372" (without quotes), and replace with
+ any of the colors in this list.
+  */
+ /* 
+ Mint: #92b372
+ Aqua: #6cabcd
+ Blue: #5b73c4
+ Brown: #aa876a
+ Grey: #9d9d9d
+ Orange: #db9d61
+ Pink: #c76199
+ Purple: #8c6ec9
+ Red: #c15b58
+ Sand: #c8ac69
+ Teal: #5aaa9a
+ */
+
  /* To customize panel color / transparency, edit the following: */
  .panel-top, .panel-bottom, .panel-left, .panel-right {
     background-color: rgba(46, 46, 46, 0.59); /* panel bg color & alpha */
